@@ -78,7 +78,7 @@ function showDetail(m) {
                         <li class="list-group-item"><strong>Director :</strong>${m.Director}</li>
                         <li class="list-group-item"><strong>Actors :</strong>${m.Actors}</li>
                         <li class="list-group-item"><strong>Writers :</strong>${m.Writer}</li>
-                        <li class="list-group-item"><strong>Plot :</strong><br>${m.Plot}</li>
+                        <li class="list-group-item"><strong>Sinopsis :</strong><br>${m.Plot}</li>
                         </ul>
                     </div>
                 </div>
