@@ -27,11 +27,17 @@ Aplikasi ini dibangun dengan menggunakan beberapa teknologi dan pustaka, termasu
    git clone https://github.com/bayu275/wpu-movies.git
 
 3. Masuk ke direktori proyek:
+   ```   
    cd wpu-movies
+   ```
 4. Instal dependensi dengan menjalankan perintah berikut:
+   ```
    npm install
+   ```
 5. Setelah dependensi terinstal, jalankan aplikasi dengan perintah:
+   ```
    npm start
+   ```
 6. Buka browser dan akses http://localhost:3000 untuk melihat aplikasi.
 
 ## Kontribusi
