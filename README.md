@@ -1,7 +1,5 @@
 # WPU Movies
 
-![WPU Movies Logo](https://github.com/bayu275/wpu-movies/blob/main/public/images/logo.png)
-
 WPU Movies adalah sebuah proyek aplikasi web sederhana yang memungkinkan pengguna untuk mencari dan menampilkan informasi tentang film dan TV show. Aplikasi ini menggunakan data dari [The Movie Database (TMDb)](https://www.themoviedb.org/).
 
 ## Fitur
