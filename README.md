@@ -1,50 +1,45 @@
 # WPU Movies
 
-WPU Movies adalah sebuah proyek aplikasi web sederhana yang memungkinkan pengguna untuk mencari dan menampilkan informasi tentang film dan TV show. Aplikasi ini menggunakan data dari [The Movie Database (TMDb)](https://www.themoviedb.org/).
+This is a project that contains a list of movies and movie details using data from [The Movie Database (TMDb)](https://www.themoviedb.org/) API.
 
-## Fitur
+The project is developed using web technologies with a focus on JavaScript, HTML, and CSS.
 
-- Pencarian film dan TV show berdasarkan judul.
-- Menampilkan daftar film dan TV show populer.
-- Melihat detail informasi film dan TV show, termasuk sinopsis, pemain, ulasan, dan banyak lagi.
-- Menambahkan film dan TV show ke daftar favorit.
+## Features
 
-## Teknologi
+- Display a list of the latest movies.
+- Display movie details, including poster, title, description, and rating.
+- Search for movies based on keywords.
+- Categorize movies by genre.
+- Add movies to a favorites list.
 
-Aplikasi ini dibangun dengan menggunakan beberapa teknologi dan pustaka, termasuk:
+## Prerequisites
 
-- [React](https://reactjs.org/): Pustaka JavaScript untuk membangun antarmuka pengguna.
-- [Redux](https://redux.js.org/): Manajemen keadaan aplikasi.
-- [The Movie Database (TMDb) API](https://www.themoviedb.org/documentation/api): Untuk mendapatkan data film dan TV show.
-- Dan banyak pustaka lainnya.
+Before you get started, make sure you have the following prerequisites:
 
-## Cara Menggunakan
+- A web browser that supports JavaScript.
 
-1. Pastikan Anda memiliki Node.js terinstal di komputer Anda.
-2. Klon repositori ini ke komputer Anda:
+## Usage
 
-   ```sh
+1. Clone this repository to your computer:
+
+   ```bash
    git clone https://github.com/bayu275/wpu-movies.git
-
-3. Masuk ke direktori proyek:
-   ```   
+   ```
+2. Navigate to the project directory:
+   ```
    cd wpu-movies
    ```
-4. Instal dependensi dengan menjalankan perintah berikut:
-   ```
-   npm install
-   ```
-5. Setelah dependensi terinstal, jalankan aplikasi dengan perintah:
-   ```
-   npm start
-   ```
-6. Buka browser dan akses http://localhost:3000 untuk melihat aplikasi.
+3. Open the index.html file with your web browser.
+4. You can now explore the list of movies and enjoy the provided features.
 
-## Kontribusi
-Kami mengundang Anda untuk berkontribusi pada proyek ini dengan membuka "pull requests" dan melaporkan masalah yang Anda temui. Silakan baca CONTRIBUTING.md untuk panduan lebih lanjut.
+## Contribution
+We greatly appreciate contributions from developers. If you wish to contribute, please follow these steps:
 
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat berkas LICENSE untuk detail lebih lanjut.
+1. Fork this repository.
+2. Create a new feature branch: git checkout -b your-feature.
+3. Commit your changes: git commit -m 'Add a new feature'.
+4. Push to your branch: git push origin your-feature.
+5. Create a Pull Request.
 
-## Terima kasih
-Terima kasih telah menggunakan aplikasi WPU Movies kami. Semoga Anda menikmati mencari dan menonton film favorit Anda!
+## License
+This project is licensed under the MIT License.
